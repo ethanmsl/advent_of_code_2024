@@ -8,7 +8,7 @@
   - [Day 4: [Ceres Search](https://adventofcode.com/2024/day/4) : [----]()](#day-4-ceres-searchhttpsadventofcodecom2024day4)
   - [Day 5: [Print Queue](https://adventofcode.com/2024/day/5) : [----]()](#day-5-print-queuehttpsadventofcodecom2024day5)
   - [Day 6: [Guard Gallivant](https://adventofcode.com/2024/day/6) : [----]()](#day-6-guard-gallivanthttpsadventofcodecom2024day6)
-  - [Day 7:](#day-7-bridge-repairhttpsadventofcodecom2024day7)
+  - [Day 7:](#day-7-bridge-repair)
   - [Day 8: [?????](https://adventofcode.com/2024/day/8) : [----]()](#day-8-httpsadventofcodecom2024day8)
 <!--toc:end-->
 

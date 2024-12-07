@@ -2,7 +2,7 @@
 
 <!--toc:start-->
 - [[Advent of Code 2024](https://adventofcode.com/2024)](#advent-of-code-202)
-  - [Day 1: [Historian Hysteria](https://adventofcode.com/2024/day/1) : [code takeaways](day01/README.md)](#day-1-historian-hysteria)
+  - [Day 1: ](#day-1-historian-hysteria)
   - [Day 2: [Red-Nosed Reports](https://adventofcode.com/2024/day/2) : [code takeaways](day02/README.md)](#day-2-red-nosed-reportshttpsadventofcodecom2024day2-code-takeawaysday02readmemd)
   - [Day 3: [Mull It Over](https://adventofcode.com/2024/day/3) : [----]()](#day-3-mull-it-overhttpsadventofcodecom2024day3)
   - [Day 4: [Ceres Search](https://adventofcode.com/2024/day/4) : [----]()](#day-4-ceres-searchhttpsadventofcodecom2024day4)

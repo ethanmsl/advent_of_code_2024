@@ -5,6 +5,7 @@
   - [Day 1: ](#day-1-historian-hysteria)
   - [Day 2: [Red-Nosed Reports](https://adventofcode.com/2024/day/2) : [code takeaways](day02/README.md)](#day-2-red-nosed-reportshttpsadventofcodecom2024day2-code-takeawaysday02readmemd)
   - [Day 3: [Mull It Over](https://adventofcode.com/2024/day/3) : [----]()](#day-3-mull-it-overhttpsadventofcodecom2024day3)
+  -   - [Day 4: Ceres Search](#day-4-ceres-searchhttpsadventofcodecom2024day4)
   - [Day 4: [Ceres Search](https://adventofcode.com/2024/day/4) : [----]()](#day-4-ceres-searchhttpsadventofcodecom2024day4)
   - [Day 5: [Print Queue](https://adventofcode.com/2024/day/5) : [----]()](#day-5-print-queuehttpsadventofcodecom2024day5)
   - [Day 6: [Guard Gallivant](https://adventofcode.com/2024/day/6) : [----]()](#day-6-guard-gallivanthttpsadventofcodecom2024day6)
